@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "295561281479",
+    "firebase_url": "https://batliwale-sas2.firebaseio.com",
+    "project_id": "batliwale-sas2",
+    "storage_bucket": "batliwale-sas2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:295561281479:android:dbdd62a6510b927789e3e2",
+        "android_client_info": {
+          "package_name": "com.example.batliwale"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "295561281479-9unnf6n136dt4m76nrd4k991p8fhhu6q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.batliwale",
+            "certificate_hash": "a2279a8e531a2dc60a147fd6b8fea134f046f4f9"
+          }
+        },
+        {
+          "client_id": "295561281479-biem756etposodpc1hkeruj6k0u8g0b4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYNZ209T6gKkdZ9Q5vKJcFXkb3SUH93ZA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "295561281479-biem756etposodpc1hkeruj6k0u8g0b4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
